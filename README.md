@@ -2,4 +2,3 @@
 
 ## Hi 👋 I am Luka! 
 I am a Salesforce developer and Consultant currently working at Maven Mule in Zagreb.
----
